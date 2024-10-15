@@ -145,6 +145,6 @@ Cada arquivo JavaScript pode ser executado diretamente com o Node.js. Siga as et
 **Autor**: Davi Guimarães
 
 **Contato**:
-- [LinkedIn]([https://www.linkedin.com/in/daminhao](https://www.linkedin.com/in/davi-guimarães-a8096a27b/))
+- (98)98142-0180
 
 ---
